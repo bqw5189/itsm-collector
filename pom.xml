@@ -42,8 +42,8 @@
     </dependencyManagement>
   <modules>
     <module>itsm-collector-api</module>
-    <module>itsm-collector-rest-provider</module>
-    <module>itsm-collector-service-provider</module>
+    <module>itsm-collector-snmp-service-provider</module>
+    <module>itsm-collector-telnet-service-provider</module>
     <module>itsm-collector-consumer</module>
   </modules>
 </project>
